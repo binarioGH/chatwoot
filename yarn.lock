@@ -15678,10 +15678,10 @@ vue-dompurify-html@^2.5.2:
   dependencies:
     dompurify "^2.3.4"
 
-vue-easytable@2.5.5:
-  version "2.5.5"
-  resolved "https://registry.yarnpkg.com/vue-easytable/-/vue-easytable-2.5.5.tgz#0d0ac244beb853859c76191c117311b5cf9654b5"
-  integrity sha512-2dp2+OWYgCn8+g6p+7tNoCuU85OGHqk1hnQ7QnS4HUyPFVAN1n4mmG+6WkIuRKrc5wsFpsg7ZiFxHQnplos3jw==
+vue-easytable@2.21.7:
+  version "2.21.7"
+  resolved "https://registry.yarnpkg.com/vue-easytable/-/vue-easytable-2.21.7.tgz#94e69f589c9c03f49aae90a7d3c5642b5b8b0ed9"
+  integrity sha512-/IX9NBslLGI9gdsx7kvxS+7hdT1KdYkPPfyDy2fOn9FXcaisKsm/nM3WJS8kPRm39NfTOJ6O0vq2dzidFSIrQQ==
   dependencies:
     lodash "^4.17.20"
     resize-observer-polyfill "^1.5.1"
